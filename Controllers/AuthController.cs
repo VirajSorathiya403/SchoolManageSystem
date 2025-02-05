@@ -18,7 +18,7 @@ namespace SchoolManageSys.Controllers
                 BaseAddress = new System.Uri(_configuration["WebApiBaseUrl"])
             };
         }
-
+    
         #region SignIn
         [HttpGet]
         public IActionResult SignIn()
@@ -130,6 +130,5 @@ namespace SchoolManageSys.Controllers
         }
 
         #endregion
-
     }
 }
