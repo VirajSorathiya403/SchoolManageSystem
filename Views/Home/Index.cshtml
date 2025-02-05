@@ -1,0 +1,200 @@
+﻿@model HomeModel.Dashboard
+
+@{
+    ViewData["Title"] = "School Management Dashboard";
+}
+
+<!-- Main Wrapper -->
+<div class="container-fluid mt-4">
+    <!-- Dashboard Heading -->
+    <div class="row">
+        <div class="col-12">
+            <div class="dashboard-header p-4 rounded shadow text-center">
+                <h1 class="fw-bold text-dark">📚 School Management Dashboard</h1>
+                <p class="text-muted">An overview of key metrics and performance indicators</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Row 1: Statistics Cards -->
+    <div class="row mt-4 g-3">
+        @foreach (var count in Model.Counts)
+        {
+            <div class="col-lg-3 col-md-6">
+                <div class="dashboard-card text-center p-4 rounded shadow-sm">
+                    <div class="card-body">
+                        <h6 class="fw-semibold text-uppercase text-secondary">@count.Metric</h6>
+                        <h2 class="fw-bold text-primary">@count.Value</h2>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Row 2: Tables -->
+    <div class="row mt-4 g-3">
+        <!-- Teachers with Birthday Today -->
+        <div class="col-md-6">
+            <div class="table-card shadow-sm p-3 rounded">
+                <h5 class="section-heading">🎉 Teachers with Birthday Today</h5>
+                <div class="table-responsive">
+                    <table class="table modern-table">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Mobile</th>
+                                <th>Email</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.TeachersBirthdayToday.Count == 0)
+                            {
+                                <tr>
+                                    <td colspan="3" class="text-center text-muted">No birthdays today 🎂</td>
+                                </tr>
+                            }
+                            else
+                            {
+                                @foreach (var teacher in Model.TeachersBirthdayToday)
+                                {
+                                    <tr>
+                                        <td>@teacher.TeacherName</td>
+                                        <td>@teacher.MobileNo</td>
+                                        <td>@teacher.Email</td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Most Absent Subjects -->
+        <div class="col-md-6">
+            <div class="table-card shadow-sm p-3 rounded">
+                <h5 class="section-heading">📊 Most Absent Subjects</h5>
+                <div class="table-responsive">
+                    <table class="table modern-table">
+                        <thead>
+                            <tr>
+                                <th>Subject</th>
+                                <th>Teacher</th>
+                                <th>Date</th>
+                                <th>Total Absences</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.MostAbsentSubjects.Count == 0)
+                            {
+                                <tr>
+                                    <td colspan="4" class="text-center text-muted">No absentee records</td>
+                                </tr>
+                            }
+                            else
+                            {
+                                @foreach (var subject in Model.MostAbsentSubjects)
+                                {
+                                    <tr>
+                                        <td>@subject.SubjectName</td>
+                                        <td>@subject.TeacherName</td>
+                                        <td>@subject.AttendanceDate.ToString("yyyy-MM-dd")</td>
+                                        <td class="fw-bold text-danger">@subject.TotalAbsences</td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Custom Styling -->
+<style>
+    /* Dashboard Header */
+    .dashboard-header {
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Dashboard Cards */
+    .dashboard-card {
+        background: linear-gradient(to right, #f8f9fa, #e9ecef);
+        color: #333;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .dashboard-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Table Card */
+    .table-card {
+        background: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+
+    /* Modern Table */
+    .modern-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin-bottom: 0;
+    }
+    .modern-table thead {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .modern-table th {
+        padding: 12px;
+        text-align: left;
+        font-weight: 600;
+        border-bottom: 2px solid #dee2e6;
+    }
+    .modern-table td {
+        padding: 12px;
+        border-bottom: 1px solid #dee2e6;
+        color: #555;
+    }
+    .modern-table tbody tr:nth-of-type(odd) {
+        background-color: #f8f9fa;
+    }
+    .modern-table tbody tr:hover {
+        background-color: #e9ecef;
+        transition: background-color 0.3s ease;
+    }
+
+    /* Responsive Table */
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* Section Headings */
+    .section-heading {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #343a40;
+        position: relative;
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+    .section-heading::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 5px;
+        height: 80%;
+        background-color: #007bff;
+        border-radius: 2px;
+    }
+</style>

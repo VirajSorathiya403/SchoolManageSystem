@@ -1,0 +1,44 @@
+@model SchoolManageSys.Models.TeacherWiseSubjectModel
+
+<main class="main" id="main">
+    <!-- Add/Edit User Form -->
+    <div class="container mt-5">
+        <h2 class="mb-4">Add/Edit User</h2>
+        <form method="post" asp-action="Save" class="form-group">
+            <input type="hidden" asp-for="TeacherWiseSubjectId" />
+            
+            <!-- Teacher Dropdown -->
+            <div class="mb-3">
+                <label for="UserID" class="form-label">Teacher Name</label>
+                <select asp-for="TeacherId" id="TeacherId" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.TeacherList, "TeacherId", "TeacherName"))">
+                    <option value="">-- Select Teacher Name --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.TeacherId)</span>
+            </div>
+
+            <!-- Subject Dropdown -->
+            <div class="mb-3">
+                <label for="UserID" class="form-label">Subject Name</label>
+                <select asp-for="SubjectId" id="SubjectId" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.SubjectList, "SubjectId", "SubjectName"))">
+                    <option value="">-- Select Subject Name --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.SubjectId)</span>
+            </div>
+
+            <!-- AcademicYear Dropdown -->
+            <div class="mb-3">
+                <label for="UserID" class="form-label">Academic Year</label>
+                <select asp-for="AcademicYearId" id="UserID" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.AcademicYearList, "AcademicYearId", "YearName"))">
+                    <option value="">-- Select Academic Year --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.AcademicYearId)</span>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</main>

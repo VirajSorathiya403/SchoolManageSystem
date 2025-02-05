@@ -1,0 +1,65 @@
+@model SchoolManageSys.Models.StudentModel
+
+<main class="main" id="main">
+    <!-- Add/Edit Teacher Form -->
+    <div class="container mt-5">
+        <h2 class="mb-4">Add/Edit Student</h2>
+        <form method="post" asp-action="Save" class="form-group">
+            <input type="hidden" asp-for="StudentId" />
+
+            <!-- StudentName -->
+            <div class="mb-3">
+                <label for="StudentName" class="form-label">StudentName</label>
+                <input asp-for="StudentName" id="StudentName" class="form-control" placeholder="Enter StudentName" />
+            </div>
+
+            <!-- Email -->
+            <div class="mb-3">    
+                <label for="Email" class="form-label">Email</label>
+                <input asp-for="Email" id="Email" class="form-control" placeholder="Enter Email" />
+            </div>
+
+            <!-- Mobile Number -->
+            <div class="mb-3">
+                <label for="MobileNo" class="form-label">Mobile Number</label>
+                <input asp-for="MobileNo" id="MobileNo" class="form-control" placeholder="Enter Mobile Number" />
+            </div>
+
+            <!-- DateOfBirth -->
+            <div class="mb-3">
+                <label for="DateOfBirth" class="form-label">Date Of Birth</label>
+                <input asp-for="DateOfBirth" id="DateOfBirth" class="form-control" placeholder="Select your date of birth" type="date" />
+            </div>
+
+            <!-- ParentNo -->
+            <div class="mb-3">
+                <label for="ParentNo" class="form-label">Parent No</label>
+                <input asp-for="ParentNo" id="ParentNo" class="form-control" placeholder="Enter ParentNo" />
+            </div>
+
+            <!-- EnrollmentNo -->
+            <div class="mb-3">
+                <label for="EnrollmentNo" class="form-label">Enrollment No</label>
+                <input asp-for="EnrollmentNumber" id="EnrollmentNo" class="form-control" placeholder="Enter EnrollmentNo" />
+            </div>
+
+            <!-- Gender -->
+            <div class="mb-3">
+                <label for="Gender" class="form-label">Gender</label>
+                <div>
+                    <div class="form-check">
+                        <input asp-for="Gender" type="radio" id="Male" value="Male" class="form-check-input" />
+                        <label class="form-check-label" for="Male">Male</label>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="Gender" type="radio" id="Female" value="Female" class="form-check-input" />
+                        <label class="form-check-label" for="Female">Female</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</main>

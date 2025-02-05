@@ -1,0 +1,98 @@
+@model IEnumerable<SchoolManageSys.Models.UserModel>
+
+<main class="main" id="main">
+
+    <!-- Popup Message -->
+    @if (TempData["Message"] != null)
+    {
+    <script>
+        window.onload = function () {
+            alert('@TempData["Message"]');
+        };
+    </script>
+    }
+    
+    <div class="container mt-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <!-- Page Heading -->
+            <h2 class="text-center mb-0">User List</h2>
+
+            <!-- Add User Button -->
+            <a asp-action="Add" class="btn btn-success">
+                <i class="bi bi-plus-circle"></i> Add User
+            </a>
+        </div>
+
+        <h6 class="text-success">@TempData["SuccessMessage"]</h6>
+
+        <h6 class="text-danger">@TempData["ErrorMessage"]</h6>
+
+        <!-- User Table -->
+        <table class="table table-striped table-bordered table-hover">
+            <thead class="table-dark">
+            <tr>
+                <th>User Id</th>
+                <th>User Name</th>
+                <th>Mobile No</th>
+                <th>Email</th>
+                <th>UserRole Name</th>
+                <th>ContactPerson Name</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.UserId</td>
+                    <td>@user.UserName</td>
+                    <td>@user.MobileNo</td>
+                    <td>@user.Email</td>
+                    <td>@user.UserRoleName</td>
+                    <td>@user.ContactPersonName</td>
+                    <td class="d-flex justify-content-center">
+                        <!-- Edit Link -->
+                        <a asp-action="Add" asp-controller="User" asp-route-UserID="@user.UserId" class="btn btn-sm btn-primary me-2">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+
+                        <!-- Delete Form -->
+                        <form asp-action="Delete" asp-controller="User" asp-route-UserID="@user.UserId" method="post">
+                            <button type="button" class="btn btn-sm btn-danger delete-button">
+                                <i class="bi bi-trash"></i> Delete
+                            </button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</main> 
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const deleteButtons = document.querySelectorAll(".delete-button");
+
+        deleteButtons.forEach(button => {
+            button.addEventListener("click", function (e) {
+                e.preventDefault();
+                const form = this.closest("form");
+                Swal.fire({
+                    title: 'Are you sure?',
+                    text: "You won't be able to revert this!",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'Yes, delete it!'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        form.submit();  // Submits the form if the user confirms
+                    }
+                });
+            });
+        });
+    });
+</script>

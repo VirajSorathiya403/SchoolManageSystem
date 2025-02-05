@@ -1,0 +1,69 @@
+@model SchoolManageSys.Models.StudentAttendanceModel
+
+<main class="main" id="main">
+    <!-- Add/Edit User Form -->
+    <div class="container mt-5">
+        <h2 class="mb-4">Add/Edit StudentAttendance</h2>
+        <form method="post" asp-action="Save" class="form-group">
+            <input type="hidden" asp-for="AttendanceId" />
+            
+            <!-- Teacher Dropdown -->
+            <div class="mb-3">
+                <label for="TeacherId" class="form-label">Teacher Name</label>
+                <select asp-for="TeacherId" id="TeacherId" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.TeacherList, "TeacherId", "TeacherName"))">
+                    <option value="">-- Select Teacher Name --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.TeacherId)</span>
+            </div>
+
+            <!-- Subject Dropdown -->
+            <div class="mb-3">
+                <label for="SubjectId" class="form-label">Subject Name</label>
+                <select asp-for="SubjectId" id="SubjectId" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.SubjectList, "SubjectId", "SubjectName"))">
+                    <option value="">-- Select Subject Name --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.SubjectId)</span>
+            </div>
+
+            <!-- Student Dropdown -->
+            <div class="mb-3">
+                <label for="StudentId" class="form-label">Student Name</label>
+                <select asp-for="StudentId" id="StudentId" class="form-select"
+                        asp-items="@(new SelectList(ViewBag.StudentList, "StudentId", "StudentName"))">
+                    <option value="">-- Select Student Name --</option>
+                </select>
+                <span class="text-danger">@Html.ValidationMessageFor(model => model.StudentId)</span>
+            </div>
+
+            <!-- Attendance Date -->
+            <div class="mb-3">
+                <label for="AttendanceDate" class="form-label">Attendance Date</label>
+                <input asp-for="AttendanceDate" id="AttendanceDate" class="form-control" placeholder="Select Attendance Date" type="date" />
+            </div>
+
+            <!-- Attendance Status -->
+            <div class="mb-3">
+                <label for="Status" class="form-label">Gender</label>
+                <div>
+                    <div class="form-check">
+                        <input asp-for="Status" type="radio" id="Present" value="Present" class="form-check-input" />
+                        <label class="form-check-label" for="Present">Present</label>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="Status" type="radio" id="Absent" value="Absent" class="form-check-input" />
+                        <label class="form-check-label" for="Absent">Absent</label>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="Status" type="radio" id="Late" value="Late" class="form-check-input" />
+                        <label class="form-check-label" for="Late">Late</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</main>

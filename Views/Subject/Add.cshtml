@@ -1,0 +1,32 @@
+@model SchoolManageSys.Models.SubjectModel
+
+<main class="main" id="main">
+    <!-- Add/Edit Teacher Form -->
+    <div class="container mt-5">
+        <h2 class="mb-4">Add/Edit Subject</h2>
+        <form method="post" asp-action="Save" class="form-group">
+            <input type="hidden" asp-for="SubjectId" />
+
+            <!-- SubjectName -->
+            <div class="mb-3">
+                <label for="SubjectName" class="form-label">SubjectName</label>
+                <input asp-for="SubjectName" id="SubjectName" class="form-control" placeholder="Enter SubjectName" />
+            </div>
+
+            <!-- SubjectCode -->
+            <div class="mb-3">
+                <label for="SubjectCode" class="form-label">SubjectCode</label>
+                <input asp-for="SubjectCode" id="SubjectCode" class="form-control" placeholder="Enter SubjectCode" />
+            </div>
+
+            <!-- Description -->
+            <div class="mb-3">
+                <label for="Description" class="form-label">Description</label>
+                <input asp-for="Description" id="Description" class="form-control" placeholder="Enter Description" />
+            </div>
+            
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</main>
