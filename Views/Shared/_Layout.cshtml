@@ -62,7 +62,7 @@ if (!string.IsNullOrEmpty(userJson))
                             @* </a> *@
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
                                 <div class="message-body">
-                                    @if (loggedInUser != null)
+                                    @if (loggedInUser != null)    
                                     {
                                     <p class="dropdown-item">Welcome, <strong>@loggedInUser.UserName</strong></p>
                                     }
@@ -80,7 +80,7 @@ if (!string.IsNullOrEmpty(userJson))
                                     </a>
                                     <form asp-action="SignOut" asp-controller="Auth" method="post" id="logoutForm">
                                         @Html.AntiForgeryToken() <!-- Anti-forgery token to prevent CSRF attacks -->
-                                        <button type="submit" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout</button>
+                                        <button type="submit" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout2</button>
                                     </form>
                                 </div>
                             </div>
