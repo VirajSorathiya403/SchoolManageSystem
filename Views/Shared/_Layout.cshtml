@@ -80,7 +80,7 @@ if (!string.IsNullOrEmpty(userJson))
                                     </a>
                                     <form asp-action="SignOut" asp-controller="Auth" method="post" id="logoutForm">
                                         @Html.AntiForgeryToken() <!-- Anti-forgery token to prevent CSRF attacks -->
-                                        <button type="submit" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout2</button>
+                                        <button type="submit" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout</button>
                                     </form>
                                 </div>
                             </div>
