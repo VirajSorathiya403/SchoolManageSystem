@@ -1,7 +1,26 @@
 ﻿@model HomeModel.Dashboard
 
 @{
-    ViewData["Title"] = "School Management Dashboard";
+ViewData["Title"] = "School Management Dashboard";
+}
+
+@functions {
+    public string GetDashboardRoute(string metric)
+    {
+        switch (metric)
+        {
+            case "TotalStudents":
+            return Url.Action("GET", "Student");
+            case "TotalTeachers":
+            return Url.Action("GET", "Teacher");
+            case "TotalSubjects":
+            return Url.Action("GET", "Subject");
+            case "TotalUsers":
+            return Url.Action("GET", "User");
+            default:
+            return "#"; // Default: non-clickable if not mapped
+        }
+    }
 }
 
 <!-- Main Wrapper -->
@@ -20,18 +39,59 @@
     <div class="row mt-4 g-3">
         @foreach (var count in Model.Counts)
         {
-            <div class="col-lg-3 col-md-6">
+        <div class="col-lg-3 col-md-6">
+            <a href="@GetDashboardRoute(count.Metric)" class="dashboard-card-link">
                 <div class="dashboard-card text-center p-4 rounded shadow-sm">
                     <div class="card-body">
                         <h6 class="fw-semibold text-uppercase text-secondary">@count.Metric</h6>
                         <h2 class="fw-bold text-primary">@count.Value</h2>
                     </div>
                 </div>
-            </div>
+            </a>
+        </div>
         }
     </div>
 
-    <!-- Row 2: Tables -->
+    <!-- Row 2: Teachers with Subjects (Full Width) -->
+    <div class="row mt-4 g-3">
+        <div class="col-12">
+            <div class="table-card shadow-sm p-3 rounded">
+                <h5 class="section-heading">📖 Teachers & Assigned Subjects</h5>
+                <div class="table-responsive">
+                    <table class="table modern-table">
+                        <thead>
+                            <tr>
+                                <th>Teacher Name</th>
+                                <th>Total Subjects</th>
+                                <th>Assigned Subjects</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.TeachersSubjects.Count == 0)
+                                {
+                                    <tr>
+                                        <td colspan="3" class="text-center text-muted">No subject assignments found.</td>
+                                    </tr>
+                                }
+                            else
+                            {
+                                @foreach (var teacher in Model.TeachersSubjects)
+                                {
+                                    <tr>
+                                        <td>@teacher.TeacherName</td>
+                                        <td>@teacher.TotalSubjects</td>
+                                        <td>@teacher.AssignedSubjects</td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Row 3: Teachers with Birthday Today & Most Absent Subjects (Side by Side) -->
     <div class="row mt-4 g-3">
         <!-- Teachers with Birthday Today -->
         <div class="col-md-6">
@@ -111,6 +171,7 @@
     </div>
 </div>
 
+
 <!-- Custom Styling -->
 <style>
     /* Dashboard Header */
@@ -129,6 +190,18 @@
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
     .dashboard-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Make Dashboard Cards Clickable */
+    .dashboard-card-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+
+    .dashboard-card-link:hover .dashboard-card {
         transform: translateY(-5px);
         box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
     }

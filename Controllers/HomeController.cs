@@ -21,6 +21,7 @@ namespace SchoolManageSys.Controllers
                 Counts = new List<HomeModel.DashboardCounts>(),
                 TeachersBirthdayToday = new List<HomeModel.TeacherDTO>(),
                 MostAbsentSubjects = new List<HomeModel.AbsentSubjectDTO>(),
+                TeachersSubjects = new List<HomeModel.TeacherSubjectsDTO>(),
             };
 
             // ✅ Use `await using` for proper async resource disposal
@@ -80,6 +81,22 @@ namespace SchoolManageSys.Controllers
             //     .ThenBy(s => s.TeacherName)
             //     .ToList();
             // ✅ No need for extra sorting if handled in SQL
+            
+            // ✅ Fetch teachers with assigned subject
+            if (await reader.NextResultAsync())
+            {
+                while (await reader.ReadAsync())
+                {
+                    dashboardData.TeachersSubjects.Add(new HomeModel.TeacherSubjectsDTO
+                    {
+                        TeacherId = Convert.ToInt32(reader["TeacherId"]),
+                        TeacherName = reader["TeacherName"].ToString(),
+                        TotalSubjects = Convert.ToInt32(reader["TotalSubjects"]),
+                        AssignedSubjects = reader["AssignedSubjects"].ToString() // Comma-separated subjects
+                    });
+                }
+            }
+            
             return View("Index", dashboardData);
         }
     }

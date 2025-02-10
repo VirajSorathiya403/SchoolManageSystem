@@ -24,14 +24,20 @@ public class HomeModel
         public DateTime AttendanceDate { get; set; }
         public int TotalAbsences { get; set; }
     }
-    
-    
+
+    public class TeacherSubjectsDTO
+    {
+        public int TeacherId { get; set; }
+        public string TeacherName { get; set; }
+        public int TotalSubjects { get; set; }
+        public string AssignedSubjects { get; set; } // Comma-separated list of subjects
+    }
+
     public class Dashboard
     {
         public List<DashboardCounts> Counts { get; set; }
         public List<TeacherDTO> TeachersBirthdayToday { get; set; }
         public List<AbsentSubjectDTO> MostAbsentSubjects { get; set; }
+        public List<TeacherSubjectsDTO> TeachersSubjects { get; set; }
     }
-
-
 }
