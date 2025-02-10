@@ -99,5 +99,10 @@ namespace SchoolManageSys.Controllers
             
             return View("Index", dashboardData);
         }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
     }
 }

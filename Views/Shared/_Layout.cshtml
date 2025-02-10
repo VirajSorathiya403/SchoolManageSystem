@@ -2,13 +2,13 @@
 @using SchoolManageSys.Models
 
 @{
-var userJson = Context.Session.GetString("UserDetails");
-UserModel loggedInUser = null;
+    var userJson = Context.Session.GetString("UserDetails");
+    UserModel loggedInUser = null;
 
-if (!string.IsNullOrEmpty(userJson))
-{
-    loggedInUser = JsonConvert.DeserializeObject<UserModel>(userJson);
-}
+    if (!string.IsNullOrEmpty(userJson))
+    {
+        loggedInUser = JsonConvert.DeserializeObject<UserModel>(userJson);
+    }
 }
 
 
@@ -64,9 +64,9 @@ if (!string.IsNullOrEmpty(userJson))
                                 <div class="message-body">
                                     @if (loggedInUser != null)    
                                     {
-                                    <p class="dropdown-item">Welcome, <strong>@loggedInUser.UserName</strong></p>
+                                        <p class="dropdown-item">Welcome, <strong>@loggedInUser.UserName</strong></p>
                                     }
-                                    <a href="javascript:void(0)" class="d-flex align-items-center gap-2 dropdown-item">
+                                    <a asp-action="Privacy" asp-controller="Home" class="d-flex align-items-center gap-2 dropdown-item">
                                         <i class="ti ti-user fs-6"></i>
                                         <p class="mb-0 fs-3">My Profile</p>
                                     </a>
@@ -180,7 +180,7 @@ if (!string.IsNullOrEmpty(userJson))
                         <span class="hide-menu">AUTH</span>
                     </li>
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="./authentication-login.html" aria-expanded="false">
+                        <a class="sidebar-link" asp-controller="Auth" asp-action="SignIn" aria-expanded="false">
                             <span>
                                 <i class="ti ti-login"></i>
                             </span>
