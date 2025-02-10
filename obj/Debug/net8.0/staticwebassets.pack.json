@@ -5,6 +5,3254 @@
       "PackagePath": "staticwebassets/SchoolManageSys.bundle.scp.css"
     },
     {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/amcharts4/animated.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/animated.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/amcharts4/charts.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/charts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/amcharts4/core.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/core.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/amcharts4/maps.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/maps.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/amcharts4/worldLow.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/worldLow.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/apexcharts/apexcharts.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/apexcharts/apexcharts.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-daterangepicker/daterangepicker.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-daterangepicker/daterangepicker.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-social/bootstrap-social.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-social/bootstrap-social.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-tagsinput/dist/bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-tagsinput/dist/bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-timepicker/css/bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-timepicker/css/bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-timepicker/js/bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chartjs/chart.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chartjs/chart.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/css/chocolat.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/css/chocolat.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/images/close.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/images/close.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/images/fullscreen.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/images/fullscreen.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/images/left.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/images/left.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/images/loader.gif",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/images/loader.gif"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/images/right.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/images/right.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/chocolat/dist/js/jquery.chocolat.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/chocolat/dist/js/jquery.chocolat.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ckeditor/ckeditor.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ckeditor/ckeditor.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/cleave-js/dist/addons/cleave-phone.us.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/cleave-js/dist/addons/cleave-phone.us.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/cleave-js/dist/cleave.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/cleave-js/dist/cleave.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/codemirror/lib/codemirror.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/codemirror/lib/codemirror.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/codemirror/lib/codemirror.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/codemirror/lib/codemirror.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/codemirror/mode/javascript/javascript.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/codemirror/mode/javascript/javascript.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/codemirror/theme/duotone-dark.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/codemirror/theme/duotone-dark.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/Select-1.2.4/css/select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/Select-1.2.4/css/select.bootstrap4.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/datatables.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/datatables.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/datatables.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/datatables.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/buttons.flash.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/buttons.flash.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/buttons.print.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/buttons.print.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/dataTables.buttons.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/jszip.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/jszip.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/pdfmake.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/pdfmake.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/datatables/export-tables/vfs_fonts.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/datatables/export-tables/vfs_fonts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/dropzonejs/dropzone.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/dropzonejs/dropzone.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/dropzonejs/min/dropzone.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/dropzonejs/min/dropzone.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/echart/echarts.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/echart/echarts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/editable-table/mindmup-editabletable.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/editable-table/mindmup-editabletable.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/css/flag-icon.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/css/flag-icon.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ad.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ad.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ae.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ae.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/af.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/af.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ag.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ag.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ai.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ai.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/al.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/al.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/am.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/am.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ao.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ao.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/aq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/aq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ar.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ar.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/as.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/as.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/at.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/at.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/au.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/au.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/aw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/aw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ax.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ax.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/az.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/az.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ba.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ba.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/be.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/be.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/br.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/br.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/by.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/by.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/bz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/bz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ca.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ca.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ch.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ch.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ci.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ci.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ck.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ck.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/co.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/co.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/cz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/cz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/de.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/de.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/dj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/dj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/dk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/dk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/dm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/dm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/do.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/do.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/dz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/dz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ec.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ec.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ee.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ee.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/eg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/eg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/eh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/eh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/er.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/er.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/es-ct.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/es-ct.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/es.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/es.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/et.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/et.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/eu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/eu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/fr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/fr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ga.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ga.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-eng.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-eng.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-nir.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-nir.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-sct.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-sct.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-wls.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gb-wls.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ge.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ge.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/gy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/gy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/hk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/hk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/hm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/hm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/hn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/hn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/hr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/hr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ht.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ht.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/hu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/hu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/id.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/id.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ie.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ie.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/il.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/il.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/im.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/im.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/in.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/in.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/io.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/io.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/iq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/iq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ir.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ir.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/is.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/is.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/it.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/it.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/je.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/je.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/jm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/jm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/jo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/jo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/jp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/jp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ke.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ke.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ki.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ki.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/km.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/km.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ky.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ky.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/kz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/kz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/la.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/la.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/li.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/li.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ls.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ls.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/lv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/lv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ly.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ly.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ma.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ma.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/md.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/md.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/me.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/me.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ml.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ml.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ms.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ms.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/my.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/my.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/mz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/mz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/na.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/na.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ne.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ne.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ng.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ng.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ni.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ni.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/no.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/no.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/np.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/np.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/nz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/nz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/om.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/om.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pe.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pe.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ph.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ph.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ps.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ps.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/pw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/pw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/py.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/py.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/qa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/qa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/re.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/re.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ro.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ro.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/rs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/rs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ru.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ru.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/rw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/rw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/se.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/se.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/si.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/si.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/so.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/so.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ss.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ss.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/st.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/st.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/sz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/sz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/td.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/td.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/th.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/th.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/to.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/to.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/tz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/tz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ua.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ua.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ug.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ug.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/um.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/um.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/un.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/un.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/us.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/us.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/uy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/uy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/uz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/uz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/va.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/va.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/vc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/vc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ve.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ve.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/vg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/vg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/vi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/vi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/vn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/vn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/vu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/vu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/wf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/wf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ws.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ws.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/ye.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/ye.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/yt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/yt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/za.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/za.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/zm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/zm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/1x1/zw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/1x1/zw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ad.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ad.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ae.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ae.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/af.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/af.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ag.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ag.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ai.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ai.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/al.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/al.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/am.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/am.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ao.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ao.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/aq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/aq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ar.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ar.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/as.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/as.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/at.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/at.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/au.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/au.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/aw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/aw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ax.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ax.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/az.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/az.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ba.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ba.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/be.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/be.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/br.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/br.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/by.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/by.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/bz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/bz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ca.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ca.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ch.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ch.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ci.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ci.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ck.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ck.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/co.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/co.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/cz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/cz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/de.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/de.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/dj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/dj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/dk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/dk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/dm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/dm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/do.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/do.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/dz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/dz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ec.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ec.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ee.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ee.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/eg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/eg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/eh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/eh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/er.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/er.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/es-ct.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/es-ct.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/es.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/es.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/et.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/et.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/eu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/eu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/fr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/fr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ga.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ga.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-eng.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-eng.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-nir.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-nir.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-sct.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-sct.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-wls.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gb-wls.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ge.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ge.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/gy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/gy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/hk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/hk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/hm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/hm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/hn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/hn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/hr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/hr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ht.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ht.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/hu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/hu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/id.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/id.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ie.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ie.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/il.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/il.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/im.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/im.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/in.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/in.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/io.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/io.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/iq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/iq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ir.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ir.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/is.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/is.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/it.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/it.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/je.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/je.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/jm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/jm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/jo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/jo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/jp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/jp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ke.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ke.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ki.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ki.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/km.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/km.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ky.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ky.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/kz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/kz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/la.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/la.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/li.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/li.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ls.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ls.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/lv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/lv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ly.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ly.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ma.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ma.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/md.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/md.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/me.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/me.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ml.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ml.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mo.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mo.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mp.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mp.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mq.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mq.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ms.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ms.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/my.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/my.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/mz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/mz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/na.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/na.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ne.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ne.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ng.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ng.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ni.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ni.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/no.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/no.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/np.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/np.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/nz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/nz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/om.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/om.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pe.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pe.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ph.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ph.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ps.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ps.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/pw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/pw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/py.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/py.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/qa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/qa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/re.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/re.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ro.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ro.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/rs.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/rs.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ru.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ru.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/rw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/rw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sa.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sa.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sb.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sb.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sd.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sd.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/se.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/se.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sh.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sh.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/si.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/si.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/so.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/so.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ss.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ss.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/st.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/st.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sx.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sx.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/sz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/sz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/td.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/td.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/th.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/th.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tj.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tj.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tk.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tk.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tl.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tl.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/to.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/to.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tr.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tr.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tv.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tv.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/tz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/tz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ua.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ua.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ug.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ug.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/um.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/um.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/un.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/un.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/us.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/us.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/uy.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/uy.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/uz.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/uz.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/va.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/va.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/vc.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/vc.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ve.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ve.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/vg.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/vg.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/vi.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/vi.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/vn.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/vn.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/vu.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/vu.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/wf.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/wf.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ws.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ws.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/ye.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/ye.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/yt.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/yt.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/za.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/za.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/zm.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/zm.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/flag-icon-css/flags/4x3/zw.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/flag-icon-css/flags/4x3/zw.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/fullcalendar/fullcalendar.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/fullcalendar/fullcalendar.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/fullcalendar/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/fullcalendar/fullcalendar.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/gmaps.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/gmaps.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ionicons/css/ionicons.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ionicons/css/ionicons.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ionicons/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ionicons/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ionicons/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ionicons/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ionicons/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ionicons/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/ionicons/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/ionicons/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/izitoast/css/iziToast.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/izitoast/css/iziToast.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/izitoast/js/iziToast.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/izitoast/js/iziToast.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-pwstrength/jquery.pwstrength.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-pwstrength/jquery.pwstrength.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-selectric/jquery.selectric.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-selectric/jquery.selectric.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-selectric/selectric.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-selectric/selectric.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-steps/jquery.steps.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-steps/jquery.steps.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-ui/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-ui/jquery-ui.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jqvmap/dist/jquery.vmap.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jqvmap/dist/jquery.vmap.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jqvmap/dist/jqvmap.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jqvmap/dist/jqvmap.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jqvmap/dist/maps/jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jqvmap/dist/maps/jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/jqvmap/dist/maps/jquery.vmap.world.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/jqvmap/dist/maps/jquery.vmap.world.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/css/lightgallery.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/css/lightgallery.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/fonts/lgd41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/fonts/lgd41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.woff",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/fonts/lgd641.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/img/loading.gif",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/img/loading.gif"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/img/video-play.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/img/video-play.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/img/vimeo-play.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/img/vimeo-play.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/img/youtube-play.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/img/youtube-play.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/lightgallery/dist/js/lightgallery-all.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/lightgallery/dist/js/lightgallery-all.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/material-icons/MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/material-icons/MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/material-icons/MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/material-icons/MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/material-icons/MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/material-icons/MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/morris/morris.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/morris/morris.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/morris/morris.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/morris/morris.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/morris/raphael-min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/morris/raphael-min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/owlcarousel2/dist/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/owlcarousel2/dist/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/owlcarousel2/dist/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/owlcarousel2/dist/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/owlcarousel2/dist/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/owlcarousel2/dist/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/owlcarousel2/dist/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/owlcarousel2/dist/owl.carousel.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/pretty-checkbox/pretty-checkbox.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/pretty-checkbox/pretty-checkbox.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/prism/prism.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/prism/prism.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/prism/prism.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/prism/prism.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/select2/dist/css/select2.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/select2/dist/css/select2.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/select2/dist/js/select2.full.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/select2/dist/js/select2.full.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/font/summernote4c4d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/font/summernote4c4d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/font/summernote4c4d.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/font/summernote4c4d.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/font/summernote4c4d.woff",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/font/summernote4c4d.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/font/summernoted41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/font/summernoted41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/summernote-bs4.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/summernote-bs4.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/summernote/summernote-bs4.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/summernote/summernote-bs4.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/sweetalert/sweetalert.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/sweetalert/sweetalert.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/upload-preview/assets/js/jquery.uploadPreview.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/upload-preview/assets/js/jquery.uploadPreview.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/css/weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/css/weather-icons-wind.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/css/weather-icons.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/css/weather-icons.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/bundles/weather-icon/font/weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/css/MaterialIcons-Regular.html",
+      "PackagePath": "staticwebassets/Admin/assets/css/MaterialIcons-Regular.html"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/css/app.min.css",
+      "PackagePath": "staticwebassets/Admin/assets/css/app.min.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/css/components.css",
+      "PackagePath": "staticwebassets/Admin/assets/css/components.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/css/custom.css",
+      "PackagePath": "staticwebassets/Admin/assets/css/custom.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/css/style.css",
+      "PackagePath": "staticwebassets/Admin/assets/css/style.css"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/fonts/webfonts/fa-brands-400.html",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/fonts/webfonts/fa-brands-400.html"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-600d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-600d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-700d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-700d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-800d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-800d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regular.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regular.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regular.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regular.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regular.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regular.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regular.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regular.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regular.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regular.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/nunito-v9-latin-regulard41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/nunito-v9-latin-regulard41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/fonts/webfonts/fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/Admin/assets/fonts/webfonts/fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/banner/1.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/banner/1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/banner/2.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/banner/2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/banner/3.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/banner/3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/banner/4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/banner/4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img01.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img01.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img02.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img02.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img03.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img03.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img04.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img04.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img05.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img05.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img06.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img06.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img07.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img07.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img08.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img08.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img09.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img09.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img10.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img10.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img11.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img11.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img12.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img12.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img13.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img13.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img14.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img14.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/blog/img15.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/blog/img15.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/browsers/chrome.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/browsers/chrome.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/browsers/firefox.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/browsers/firefox.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/browsers/internet-explorer.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/browsers/internet-explorer.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/browsers/opera.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/browsers/opera.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/browsers/safari.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/browsers/safari.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/americanexpress.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/americanexpress.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/dinersclub.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/dinersclub.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/discover.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/discover.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/jcb.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/jcb.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/mastercard.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/mastercard.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/paypal.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/paypal.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/cards/visa.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/cards/visa.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/favicon.ico",
+      "PackagePath": "staticwebassets/Admin/assets/img/favicon.ico"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-64.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-64.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/1.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/10.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/10.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/11.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/11.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/12.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/12.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/13.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/13.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/14.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/14.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/15.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/15.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/16.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/16.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/17.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/17.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/18.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/18.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/19.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/19.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/2.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/20.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/20.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/3.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/5.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/5.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/6.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/6.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/7.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/7.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/8.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/8.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/9.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/9.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-1.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-10.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-10.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-11.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-11.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-12.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-12.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-13.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-13.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-14.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-14.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-15.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-15.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-16.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-16.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-17.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-17.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-18.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-18.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-19.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-19.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-2.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-20.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-20.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-3.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-5.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-5.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-6.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-6.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-7.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-7.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-8.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-8.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/image-gallery/thumb/thumb-9.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/image-gallery/thumb/thumb-9.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/loading.gif",
+      "PackagePath": "staticwebassets/Admin/assets/img/loading.gif"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/logo.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/logo.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post11.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post11.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post12.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post12.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post13.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post13.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post5.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post5.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post6.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post6.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post7.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post7.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post8.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post8.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/posts/post9.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/posts/post9.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/products/product-1.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/products/product-1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/products/product-2.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/products/product-2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/products/product-3.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/products/product-3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/products/product-4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/products/product-4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/products/product-5.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/products/product-5.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/spinner-white.svg",
+      "PackagePath": "staticwebassets/Admin/assets/img/spinner-white.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/spinner.svg",
+      "PackagePath": "staticwebassets/Admin/assets/img/spinner.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/typing.svg",
+      "PackagePath": "staticwebassets/Admin/assets/img/typing.svg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/user.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/user.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-1.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-10.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-10.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-2.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-3.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-4.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-4.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-5.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-5.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-6.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-6.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-7.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-7.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-8.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-8.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/img/users/user-9.png",
+      "PackagePath": "staticwebassets/Admin/assets/img/users/user-9.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/app.min.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/app.min.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/custom.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/custom.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/advance-table.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/advance-table.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/auth-register.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/auth-register.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/calendar.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/calendar.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chart-amchart.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chart-amchart.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chart-apexcharts.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chart-apexcharts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chart-chartjs.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chart-chartjs.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chart-echarts.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chart-echarts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chart-morris.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chart-morris.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/chat.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/chat.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/ckeditor.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/ckeditor.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/contact.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/contact.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/create-post.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/create-post.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/datatables.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/datatables.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/editable-table.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/editable-table.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/form-wizard.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/form-wizard.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/forms-advanced-forms.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/forms-advanced-forms.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gallery1.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gallery1.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-advanced-route.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-advanced-route.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-draggable-marker.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-draggable-marker.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-geocoding.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-geocoding.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-geolocation.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-geolocation.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-marker.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-marker.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-multiple-marker.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-multiple-marker.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-route.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-route.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/gmaps-simple.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/gmaps-simple.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/index.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/index.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/ion-icons.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/ion-icons.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/light-gallery.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/light-gallery.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/multiple-upload.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/multiple-upload.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/owl-carousel.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/owl-carousel.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/portfolio.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/portfolio.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/posts.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/posts.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/sparkline.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/sparkline.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/sweetalert.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/sweetalert.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/toastr.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/toastr.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/vector-map.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/vector-map.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/widget-chart.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/widget-chart.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/page/widget-data.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/page/widget-data.js"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/js/scripts.js",
+      "PackagePath": "staticwebassets/Admin/assets/js/scripts.js"
+    },
+    {
       "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/assets/css/icons/tabler-icons/fonts/tabler-icons.eot",
       "PackagePath": "staticwebassets/assets/css/icons/tabler-icons/fonts/tabler-icons.eot"
     },
