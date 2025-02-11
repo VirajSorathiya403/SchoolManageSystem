@@ -17,7 +17,7 @@ namespace SchoolManageSys.Controllers
         public async Task<IActionResult> Index()
         {
             var dashboardData = new HomeModel.Dashboard
-            {
+            {   
                 Counts = new List<HomeModel.DashboardCounts>(),
                 TeachersBirthdayToday = new List<HomeModel.TeacherDTO>(),
                 MostAbsentSubjects = new List<HomeModel.AbsentSubjectDTO>(),
