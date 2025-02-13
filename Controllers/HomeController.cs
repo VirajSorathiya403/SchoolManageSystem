@@ -24,7 +24,7 @@ namespace SchoolManageSys.Controllers
                 TeachersSubjects = new List<HomeModel.TeacherSubjectsDTO>(),
             };
 
-            // ✅ Use `await using` for proper async resource disposal
+            //  Use `await using` for proper async resource disposal
             await using var connection = new SqlConnection(_configuration.GetConnectionString("ConnectionString"));
             await connection.OpenAsync();
 
@@ -35,7 +35,7 @@ namespace SchoolManageSys.Controllers
 
             await using var reader = await command.ExecuteReaderAsync();
 
-            // ✅ Fetch counts
+            //Fetch counts
             while (await reader.ReadAsync())
             {
                 dashboardData.Counts.Add(new HomeModel.DashboardCounts
@@ -45,7 +45,7 @@ namespace SchoolManageSys.Controllers
                 });
             }
 
-            // ✅ Fetch teachers with birthdays today
+            //Fetch teachers with birthdays today
             if (await reader.NextResultAsync())
             {
                 while (await reader.ReadAsync())
@@ -60,7 +60,7 @@ namespace SchoolManageSys.Controllers
                 }
             }
 
-            // ✅ Fetch subjects with most absences
+            //Fetch subjects with most absences
             if (await reader.NextResultAsync())
             {
                 while (await reader.ReadAsync())
