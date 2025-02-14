@@ -20,6 +20,7 @@
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="Views\Auth\SignIn.cshtml" />
+      <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\bundles\apexcharts\apexcharts.min.js" />
     </ItemGroup>
 
 </Project>

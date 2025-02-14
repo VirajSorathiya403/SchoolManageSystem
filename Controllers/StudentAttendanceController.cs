@@ -21,16 +21,30 @@ namespace SchoolManageSys.Controllers
         }
         
         #region GetStudentAttendanceList
-        public async Task<IActionResult> GET()
+        public async Task<IActionResult> GET(DateTime? attendanceDate)
         {
             List<StudentAttendanceModel> studentAttendances = new List<StudentAttendanceModel>();
+
+            // If attendanceDate is not provided, set it to today's date
+            if (!attendanceDate.HasValue)
+            {
+                attendanceDate = DateTime.Today;  // Set today's date if no date is provided
+            }
+
             try
             {
+                // Fetch all student attendance records
                 HttpResponseMessage response = await _httpClient.GetAsync("api/StudentAttendance/getallstudentAttendances");
+
                 if (response.IsSuccessStatusCode)
                 {
                     string data = await response.Content.ReadAsStringAsync();
                     studentAttendances = JsonConvert.DeserializeObject<List<StudentAttendanceModel>>(data);
+
+                    // Filter by the selected date (or today's date)
+                    studentAttendances = studentAttendances
+                        .Where(a => a.AttendanceDate.Date == attendanceDate.Value.Date)
+                        .ToList();
                 }
                 else
                 {
@@ -41,7 +55,17 @@ namespace SchoolManageSys.Controllers
             {
                 ModelState.AddModelError("", $"Exception occurred: {ex.Message}");
             }
-            return View("StudentAttendanceList", studentAttendances);
+
+            // If it's an AJAX request, return the filtered data as JSON
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return Json(studentAttendances); // Return JSON for AJAX requests
+            }
+
+            // Otherwise, return the view with the model
+
+            // Otherwise, return the view with the model
+            return View("StudentAttendanceList", studentAttendances); // Return the view with data for the initial page load
         }
         #endregion
         

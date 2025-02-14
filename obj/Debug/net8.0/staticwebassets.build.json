@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qzQKVP6TCOfEjV0br2Qz0JXXE/BaKGlU60s3waUuxn8=",
+  "Hash": "EjXRuZpVgOPjGsTywOStX+gujbryfv9z9+Q6mPwN7xc=",
   "Source": "SchoolManageSys",
   "BasePath": "_content/SchoolManageSys",
   "Mode": "Default",
@@ -148,25 +148,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Admin/assets/bundles/amcharts4/worldLow.js"
-    },
-    {
-      "Identity": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/apexcharts/apexcharts.min.js",
-      "SourceId": "SchoolManageSys",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/one/RiderProjects/SchoolManageSys/wwwroot/",
-      "BasePath": "_content/SchoolManageSys",
-      "RelativePath": "Admin/assets/bundles/apexcharts/apexcharts.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Admin/assets/bundles/apexcharts/apexcharts.min.js"
     },
     {
       "Identity": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css",

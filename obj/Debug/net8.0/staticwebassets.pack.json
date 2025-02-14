@@ -25,10 +25,6 @@
       "PackagePath": "staticwebassets/Admin/assets/bundles/amcharts4/worldLow.js"
     },
     {
-      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/apexcharts/apexcharts.min.js",
-      "PackagePath": "staticwebassets/Admin/assets/bundles/apexcharts/apexcharts.min.js"
-    },
-    {
       "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/Admin/assets/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css",
       "PackagePath": "staticwebassets/Admin/assets/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css"
     },
