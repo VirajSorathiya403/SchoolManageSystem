@@ -6045,6 +6045,46 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/logo.png",
+      "PackagePath": "staticwebassets/portfolio/images/logo.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/my-cv.pdf",
+      "PackagePath": "staticwebassets/portfolio/images/my-cv.pdf"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/phone-background-2.png",
+      "PackagePath": "staticwebassets/portfolio/images/phone-background-2.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/user.png",
+      "PackagePath": "staticwebassets/portfolio/images/user.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/viraj.png",
+      "PackagePath": "staticwebassets/portfolio/images/viraj.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/work-1.jpg",
+      "PackagePath": "staticwebassets/portfolio/images/work-1.jpg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/work-1.png",
+      "PackagePath": "staticwebassets/portfolio/images/work-1.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/work-2.jpg",
+      "PackagePath": "staticwebassets/portfolio/images/work-2.jpg"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/images/work-3.png",
+      "PackagePath": "staticwebassets/portfolio/images/work-3.png"
+    },
+    {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/portfolio/style.css",
+      "PackagePath": "staticwebassets/portfolio/style.css"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SchoolManageSys.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -1,0 +1,246 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <script src="https://kit.fontawesome.com/f597fd2a85.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/portfolio/style.css">
+</head>
+<body>  
+    
+    <div id="header">
+        <div class="container">
+
+            <nav>
+                <img src="~/portfolio/images/logo.png" class="logo" alt="">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfoilo</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closeMenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openMenu()"></i>
+            </nav>
+
+            <div class="header-text">
+                <p>Web Developer</p>
+                <h1>Hi, I'm <span> Viraj</span> Sorathiya</h1>
+            </div>
+
+        </div>
+    </div>
+
+<!-- -----------------About-------------- -->
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="~/portfolio/images/user.png" alt="">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>Hey there! I'm Viraj, a dedicated web developer fueled by a passion for crafting digital experiences. With a knack for coding and an eye for design, I'm on a mission to become a full stack developer.
+
+                        In the world of bits and bytes, I find my balance on the cricket pitch, where every match teaches me the value of teamwork, strategy, and perseverance. When I'm not coding or chasing boundaries, you'll often find me honing my skills on the snooker table, where precision meets relaxation.
+                        
+                        With each line of code and every break shot, I'm constantly pushing myself to learn and grow. My goal is to master the art of web development from front-end finesse to back-end brilliance.
+                        
+                        Let's connect, collaborate, and maybe even share a game of cricket or snooker along the way. Here's to coding adventures and sporting victories!</p>
+
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+                    </div>
+
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>UI/UX</span><br>Designing Web/App interfaces</li>
+                            <li><span>Web Development</span><br>Creating Websites</li>
+                            <li><span>App Development</span><br>Creating Websites</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>2023 - Current</span><br>Trainnee at Logistic Infotec</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2022</span><br>B.Tech from Darshan University</li>
+                            <li><span>2023 </span><br>Web Development Training at Logistic Infotec</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- ----------------Services-------------------->
+
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+
+                <div>
+                    <i class="fas fa-code"></i>
+                    <h2>Web Design</h2>
+                    <p>Web designing is more than just pixels and colors; it's about creating intuitive and visually captivating digital experiences that resonate with users. From sleek interfaces to seamless interactions, every element is meticulously crafted to elevate the online journey.</p>
+                    <a href="#">Learn More</a>
+                </div>
+                <div>
+                    <i class="fas fa-crop-alt"></i>
+                    <h2>UI/UX Design</h2>
+                    <p>UI/UX design is the art of blending aesthetics with functionality, ensuring that every click feels intuitive and every interaction seamless. It's about empathizing with users, anticipating their needs, and crafting delightful experiences that leave a lasting impression.</p>
+                    <a href="#">Learn More</a>
+                </div>
+                <div>
+                    <i class="fab fa-app-store"></i>
+                    <h2>App Development</h2>
+                    <p>App development is the fusion of innovation and functionality, where ideas come to life in the palm of your hand. From conceptualization to deployment, every line of code is meticulously crafted to deliver seamless user experiences and transformative digital solutions.</p>
+                    <a href="#">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+<!-----------------Portfolio------------------>
+
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+
+                <div class="work">
+                    <img src="~/portfolio/images/work-1.jpg" alt="">
+                    <div class="layer">
+                        <h2>Social Media App</h2>
+                        <p>The app connects you to the talented people around the world.
+                            Download it from play store. </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="~/portfolio/images/work-2.jpg" alt="">
+                    <div class="layer">
+                        <h2>Food Delivery App</h2>
+                        <p>Savor the flavors of convenience with our app. Delicious dishes delivered right to your doorstep! </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="~/portfolio/images/work-3.png" alt="">
+                    <div class="layer">
+                        <h2>E-Commerce Website</h2>
+                        <p>Discover endless possibilities with our online marketplace. Your one-stop shop for everything you need! </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+
+            </div>
+            <a href="#" class="btn">See More</a>
+        </div>
+    </div>
+
+<!-- -------------------Contact------------------------>
+
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p> <i class="fas fa-paper-plane"></i> virajsorathiya07@gmail.com</p>
+                    <p> <i class="fa-solid fa-phone"></i> 9016973431</p>
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-twitter-square"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                    <a href="~/portfolio/images/my-cv.pdf" download class="btn btn2">Download CV</a>
+                </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="Name" placeholder="Your Name" required/>
+                        <input type="email" name="Email" placeholder="Your E-mail" required>
+                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn btn2">Submit</button> 
+                    </form>
+                    <span id="msg"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>Copyright &copy Viraj. Made with <i class="fas fa-heart"></i> by Viraj</p>
+        </div>
+
+    </div>
+
+
+    <script>
+
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+            }
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+            document.getElementById
+        }
+
+    </script>
+
+    <script>
+
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openMenu(){
+            sidemenu.style.right = "0";
+        }
+
+        function closeMenu(){
+            sidemenu.style.right = "-200px";
+        }
+
+    </script>
+
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbzCFFsaiV4OVh1t-R219e2If8lkFcvRKauEMbqwIS9Uqg50IqzsZcr6Z9ThuoXPfT3_aQ/exec'
+        const form = document.forms['submit-to-google-sheet']
+
+        const msg = document.getElementById("msg");
+    
+        form.addEventListener('submit', e => {
+        e.preventDefault()
+        fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => {
+                msg.innerHTML = "Message sent successfully"
+                setTimeout(function(){
+                    msg.innerHTML = ""
+                },5000)
+                form.reset();
+            })
+            .catch(error => console.error('Error!', error.message))
+        })
+    </script>
+
+</body>
+</html> 
