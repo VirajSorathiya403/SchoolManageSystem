@@ -3297,6 +3297,10 @@
       "PackagePath": "staticwebassets/assets/images/logos/favicon.png"
     },
     {
+      "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/assets/images/logos/school4.jpg",
+      "PackagePath": "staticwebassets/assets/images/logos/school4.jpg"
+    },
+    {
       "Id": "/home/one/RiderProjects/SchoolManageSys/wwwroot/assets/images/products/s1.jpg",
       "PackagePath": "staticwebassets/assets/images/products/s1.jpg"
     },

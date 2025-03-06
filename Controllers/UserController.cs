@@ -5,7 +5,7 @@ using SchoolManageSys.Models;
 
 namespace SchoolManageSys.Controllers
 {
-    [CheckAccess]
+    // [CheckAccess]
     public class UserController : Controller
     {
         private readonly IConfiguration _configuration;
