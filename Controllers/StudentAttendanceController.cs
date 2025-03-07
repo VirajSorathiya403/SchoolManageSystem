@@ -1,3 +1,5 @@
+using System.Net;
+using System.Net.Mail;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -179,5 +181,56 @@ namespace SchoolManageSys.Controllers
             return RedirectToAction("GET");
         }
         #endregion
+        
+        #region SendMail
+        [HttpPost("send")]
+        public async Task<IActionResult> SendEmail([FromBody] EmailRequestModel emailRequest)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(emailRequest.Email) || string.IsNullOrEmpty(emailRequest.StudentName))
+                {
+                    return BadRequest(new { error = "Email and Student Name are required." });
+                }
+
+                // Fetch credentials securely (from environment variables or appsettings.json)
+                var smtpEmail = Environment.GetEnvironmentVariable("SMTP_EMAIL") ?? "sorathiyaviraj558@gmail.com";
+                var smtpPassword = Environment.GetEnvironmentVariable("SMTP_PASSWORD") ?? "dlnfxanorgohepvp";
+
+                // Configure SMTP client
+                using (var smtpClient = new SmtpClient("smtp.gmail.com", 587))
+                {
+                    smtpClient.Credentials = new NetworkCredential(smtpEmail, smtpPassword);
+                    smtpClient.EnableSsl = true;
+
+                    // Create email message
+                    var mailMessage = new MailMessage
+                    {
+                        From = new MailAddress(smtpEmail, "School Management"),
+                        Subject = "Attendance Notification",
+                        Body = $"Dear {emailRequest.StudentName},\n\nYou were absent today. Please ensure regular attendance.\n\nRegards,\nSchool Management",
+                        IsBodyHtml = false,
+                    };
+                    mailMessage.To.Add(emailRequest.Email);
+
+                    // Send email
+                    await smtpClient.SendMailAsync(mailMessage);
+                }
+
+                return Ok(new { message = "Email sent successfully" });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = "Failed to send email", details = ex.Message });
+            }
+        }
+        #endregion
+        
+// Model for email request
+        public class EmailRequestModel
+        {
+            public string StudentName { get; set; }
+            public string Email { get; set; }
+        }
     }
 }

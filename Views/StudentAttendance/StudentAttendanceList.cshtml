@@ -1,16 +1,10 @@
 @model IEnumerable<SchoolManageSys.Models.StudentAttendanceModel>
 
 <main class="main" id="main">
-
     <div class="container mt-5">
         <div class="d-flex justify-content-between align-items-center mb-4">
-
             <input type="date" id="attendanceDateFilter" class="form-control w-auto" />
-
-            <!-- Page Heading -->
             <h2 class="text-center mb-0">Student Attendance List</h2>
-
-            <!-- Add User Button -->
             <a asp-action="Add" asp-controller="StudentAttendance" class="btn btn-success">
                 <i class="bi bi-plus-circle"></i> Add Student Attendance
             </a>
@@ -19,7 +13,6 @@
         <h6 class="text-success">@TempData["SuccessMessage"]</h6>
         <h6 class="text-danger">@TempData["ErrorMessage"]</h6>
 
-        <!-- User Table -->
         <table class="table table-striped table-bordered table-hover" id="attendanceTable">
             <thead class="table-dark">
             <tr>
@@ -39,7 +32,11 @@
                 <tr>
                     <td>@studentAttendance.AttendanceId</td>
                     <td>@studentAttendance.StudentName</td>
-                    <td>@studentAttendance.Email</td>
+                    <td>
+                        <a href="#" class="send-email" data-name="@studentAttendance.StudentName" data-email="@studentAttendance.Email">
+                            @studentAttendance.Email
+                        </a>
+                    </td>
                     <td>@studentAttendance.SubjectName</td>
                     <td>@studentAttendance.TeacherName</td>
                     <td>@studentAttendance.AttendanceDate</td>
@@ -66,7 +63,9 @@
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         const deleteButtons = document.querySelectorAll(".delete-button");
+        const dateFilter = document.getElementById("attendanceDateFilter");
 
+        // Delete confirmation popup
         deleteButtons.forEach(button => {
             button.addEventListener("click", function (e) {
                 e.preventDefault();
@@ -81,61 +80,49 @@
                     confirmButtonText: 'Yes, delete it!'
                 }).then((result) => {
                     if (result.isConfirmed) {
-                        form.submit();  // Submits the form if the user confirms
+                        form.submit();
                     }
                 });
             });
         });
 
-        // Automatically set today's date on page load
-        const dateFilter = document.getElementById("attendanceDateFilter");
-
-        // Set today's date in the date picker input
+        // Set today's date and fetch data
         const today = new Date().toISOString().split('T')[0];
         dateFilter.value = today;
-
-        // Trigger filter when the page loads with today's date
         fetchFilteredData(today);
 
-        // Event listener for date change (no need for a filter button anymore)
+        // Date filter event listener
         dateFilter.addEventListener("change", function () {
-            const selectedDate = dateFilter.value;
-            fetchFilteredData(selectedDate);
+            fetchFilteredData(dateFilter.value);
         });
 
         function fetchFilteredData(date) {
             fetch(`/StudentAttendance/GET?attendanceDate=${date}`, {
                 method: 'GET',
-                headers: {
-                    'X-Requested-With': 'XMLHttpRequest' // Ensure it's an AJAX request
-                }
+                headers: { 'X-Requested-With': 'XMLHttpRequest' }
             })
                 .then(response => response.json())
                 .then(data => {
-                    // Log the data to check if it's being returned correctly
                     console.log(data);
-
                     const tableBody = document.querySelector("#attendanceTable tbody");
-                    tableBody.innerHTML = ""; // Clear current rows 
+                    tableBody.innerHTML = "";
 
                     if (data.length === 0) {
-                        // If no data returned, show a message
-                        const noDataRow = document.createElement("tr");
-                        noDataRow.innerHTML = `
-                        <td colspan="7" class="text-center text-danger">No attendance records found for this date. Attendance is pending.</td>
-                    `;
-                        tableBody.appendChild(noDataRow);
+                        tableBody.innerHTML = `<tr><td colspan="8" class="text-center text-danger">No attendance records found for this date. Attendance is pending.</td></tr>`;
                     } else {
-                        // Render data rows if data is available
                         data.forEach(studentAttendance => {
                             const row = document.createElement("tr");
                             row.innerHTML = `
                             <td>${studentAttendance.attendanceId}</td>
                             <td>${studentAttendance.studentName}</td>
-                            <td>${studentAttendance.email}</td>
+                            <td>
+                                <a href="#" class="send-email" data-name="${studentAttendance.studentName}" data-email="${studentAttendance.email}">
+                                    ${studentAttendance.email}
+                                </a>
+                            </td>
                             <td>${studentAttendance.subjectName}</td>
                             <td>${studentAttendance.teacherName}</td>
-                            <td>${new Date(studentAttendance.attendanceDate).toLocaleDateString()}</td>
+                            <td>${new Date(studentAttendance.attendanceDate).toISOString().split('T')[0]}</td>
                             <td>${studentAttendance.status}</td>
                             <td>
                                 <div class="d-flex justify-content-center">
@@ -155,6 +142,58 @@
                     }
                 })
                 .catch(error => console.error('Error fetching filtered data:', error));
+        }
+
+        // Email click event handling
+        document.body.addEventListener("click", function (event) {
+            const target = event.target.closest(".send-email");
+            if (!target) return;
+            event.preventDefault();
+
+            const studentName = target.getAttribute("data-name");
+            const studentEmail = target.getAttribute("data-email");
+
+            Swal.fire({
+                title: "Send Email?",
+                text: `Do you want to send an email to ${studentName}?`,
+                icon: "question",
+                showCancelButton: true,
+                confirmButtonText: "Send",
+                cancelButtonText: "Cancel"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    sendEmail(studentName, studentEmail);
+                }
+            });
+        });
+
+        function sendEmail(name, email) {
+            fetch("/send", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ StudentName: name, Email: email })
+            })
+                .then(response => {
+                    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                    return response.text(); // Use text() instead of json() to check response manually
+                })
+                .then(data => {
+                    try {
+                        const jsonData = JSON.parse(data); // Convert to JSON safely
+                        if (jsonData.message) {
+                            Swal.fire("Success", "Email sent successfully!", "success");
+                        } else {
+                            Swal.fire("Error", "Failed to send email.", "error");
+                        }
+                    } catch (e) {
+                        Swal.fire("Error", "Invalid server response.", "error");
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    Swal.fire("Error", `Something went wrong: ${error.message}`, "error");
+                });
+
         }
     });
 </script>
